@@ -87,10 +87,10 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 ## Model Graph
 
-**Model Graph For Sawtooth Waveform**
+# Model Graph For Sawtooth Waveform
 <img width="512" height="568" alt="image" src="https://github.com/user-attachments/assets/a5ec36b5-fc87-4d7e-ab36-067541fbcc92" />
 
-**Model Graph For Square Waveform**
+# Model Graph For Square Waveform
 <img width="433" height="472" alt="image" src="https://github.com/user-attachments/assets/69d074dd-db14-4764-8e13-8fea144f197a" />
 
 
